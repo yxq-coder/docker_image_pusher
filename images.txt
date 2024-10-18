@@ -1,1 +1,2 @@
+mcr.microsoft.com/dotnet/core/aspnet:2.2
 mcr.microsoft.com/dotnet/core/aspnet:3.1
